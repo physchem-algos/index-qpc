@@ -17,6 +17,13 @@ task list, comments
 1. [парсер](https://github.com/mipt-cs/arithmetic_dragons) - калькулятор, в тч стековый
 2. []()
 
+## Контесты для подготовки ко 2 контрольной (осень)
+
+1. [Динпрог и быстрые сортировки](https://ejudge.insyo.org:44367/cgi-bin/new-register?contest_id=10104)
+2. [Динпрог](https://ejudge.insyo.org:44367/cgi-bin/new-register?contest_id=10105)
+3. [Строки](https://ejudge.insyo.org:44367/cgi-bin/new-register?contest_id=10106)
+4. [Сортировки](https://ejudge.insyo.org:44367/cgi-bin/new-register?contest_id=10103)
+
 ## Репозитории для рефакторинга и интеграции 
 | Репозиторий | Краткое описание | Что можно дописать, исправить или переписать (задачи для студентов) |
 | :--- | :--- | :--- |
