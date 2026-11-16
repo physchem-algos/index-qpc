@@ -5,6 +5,8 @@ task list, comments
 
 [Рекомендации](c++integ.md) по интеграции кода на c/c++ в программы на python
 
+## [Шаблон отчета](report.md) для заполнения своими данными и публикации в виде README.md в своем репозитории
+
 ## testing
 [до блока Непрерывная интеграция](https://judge.mipt.ru/mipt_cs_on_python3_2015/labs/lab6.html#id18)
 
