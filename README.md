@@ -25,10 +25,10 @@ task list, comments
 
 ## Контесты для подготовки ко 2 контрольной (осень)
 
-1. [Динпрог и быстрые сортировки](https://ejudge.insyo.org:44367/cgi-bin/new-register?contest_id=10104)
-2. [Динпрог](https://ejudge.insyo.org:44367/cgi-bin/new-register?contest_id=10105)
-3. [Строки](https://ejudge.insyo.org:44367/cgi-bin/new-register?contest_id=10106)
-4. [Сортировки](https://ejudge.insyo.org:44367/cgi-bin/new-register?contest_id=10103)
+1. [Динпрог и быстрые сортировки](https://ejudge.insyo.org:44367/cgi-bin/new-register?contest_id=10104) - все задачи
+2. [Динпрог](https://ejudge.insyo.org:44367/cgi-bin/new-register?contest_id=10105) - A, B, C, E, F
+3. [Строки](https://ejudge.insyo.org:44367/cgi-bin/new-register?contest_id=10106) - F, G, H
+4. [Сортировки](https://ejudge.insyo.org:44367/cgi-bin/new-register?contest_id=10103) - все, G опционально 
 
 ## Репозитории для рефакторинга и интеграции 
 | Репозиторий | Краткое описание | Что можно дописать, исправить или переписать (задачи для студентов) |
